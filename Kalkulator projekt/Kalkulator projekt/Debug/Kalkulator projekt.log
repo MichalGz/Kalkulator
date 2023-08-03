@@ -1,0 +1,18 @@
+﻿  Kontrola.cpp
+C:\Users\mgrze\source\repos\Kalkulator projekt\Kalkulator projekt\Kontrola.cpp(45,18): warning C4018: ">": niezgodność typu ze znakiem/bez znaku
+C:\Users\mgrze\source\repos\Kalkulator projekt\Kalkulator projekt\Kontrola.cpp(56,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\mgrze\source\repos\Kalkulator projekt\Kalkulator projekt\Kontrola.cpp(73,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\mgrze\source\repos\Kalkulator projekt\Kalkulator projekt\Kontrola.cpp(94,30): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\mgrze\source\repos\Kalkulator projekt\Kalkulator projekt\Kontrola.cpp(127,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\mgrze\source\repos\Kalkulator projekt\Kalkulator projekt\Kontrola.cpp(140,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\mgrze\source\repos\Kalkulator projekt\Kalkulator projekt\Kontrola.cpp(158,18): warning C4018: ">": niezgodność typu ze znakiem/bez znaku
+C:\Users\mgrze\source\repos\Kalkulator projekt\Kalkulator projekt\Kontrola.cpp(186,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\mgrze\source\repos\Kalkulator projekt\Kalkulator projekt\Kontrola.cpp(210,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\mgrze\source\repos\Kalkulator projekt\Kalkulator projekt\Kontrola.cpp(227,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\mgrze\source\repos\Kalkulator projekt\Kalkulator projekt\Kontrola.cpp(244,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\mgrze\source\repos\Kalkulator projekt\Kalkulator projekt\Kontrola.cpp(275,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\mgrze\source\repos\Kalkulator projekt\Kalkulator projekt\Kontrola.cpp(310,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\mgrze\source\repos\Kalkulator projekt\Kalkulator projekt\Kontrola.cpp(349,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  main.cpp
+  Generowanie kodu...
+  Kalkulator projekt.vcxproj -> C:\Users\mgrze\source\repos\Kalkulator projekt\Debug\Kalkulator projekt.exe
